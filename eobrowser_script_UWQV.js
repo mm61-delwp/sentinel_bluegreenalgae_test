@@ -4,12 +4,12 @@
 //VERSION=3
 const PARAMS = {
   // Indices
-  chlIndex: 'default',
+  chlIndex: 'rlh',
   tssIndex: 'default',
   watermaskIndices: ['ndwi', 'hol'],
   // Limits
-  chlMin: -0.005,
-  chlMax: 0.05,
+  chlMin: 0.006,
+  chlMax: 0.045,
   tssMin: 0.075,
   tssMax: 0.185,
   waterMax: 0,
