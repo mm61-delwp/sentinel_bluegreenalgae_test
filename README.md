@@ -3,7 +3,7 @@ Determine whether Sentinel satellite data can be used to map extent and severity
 
 ## Background:
 Toxic algal blooms are a frequent occurrence in the Gippsland Lakes and require emergency response & monitoring.
-High-resolution satellite imagery & data are available through Sentinel Hub, and a quick look returned some encouraging images using custom scripts provided by other users: 
+High-resolution satellite imagery & data are available through Sentinel Hub, and user-contributed scripts return some encouraging images indicating potential to adopt existing remote sensing technology for mapping extent and severity of blooms.
 
 #### Ulyssys Water Quality Viewer (UWQV)
 A custom script to dynamically visualize the chlorophyll and sediment conditions of water bodies on Sentinel-2 and Sentinel-3 images. Authored by by András Zlinszky and Gergely Padányi-Gulyás. Winner of the 2nd Sentinel Hub Custom Script Contest.
