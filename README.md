@@ -16,7 +16,7 @@ The Se2WaQ - Sentinel-2 Water Quality - script by Nuno Sidónio and Andrade Pere
 ![image](https://user-images.githubusercontent.com/100050237/161179412-2dd927ee-02ba-475a-abe7-6fe3a76dace9.png)
 * https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/se2waq/
 
-#### Other available scripts:
+#### Other related scripts:
 * https://custom-scripts.sentinel-hub.com/sentinel-2/cyanobacteria_chla_ndci_l1c
 * https://custom-scripts.sentinel-hub.com/sentinel-2/maximum_peak_height_bloom_index
 * https://custom-scripts.sentinel-hub.com/sentinel-2/apa_script
