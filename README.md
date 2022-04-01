@@ -16,7 +16,7 @@ A custom script to dynamically visualize the chlorophyll and sediment conditions
 The Se2WaQ - Sentinel-2 Water Quality - script by Nuno Sidónio and Andrade Pereira uses Sentinel-2 products (L1C & L2A) to display the spatial distribution of six relevant indicators of water quality: (i) the concentration of Chlorophyll a (Chl_a), (ii) the density of cyanobacteria (Cya), (iii) turbidity (turb), (iv) colored dissolved organic matter (CDOM), (v) dissolved organic carbon (DOC), and (vi) water color (Color).
 ![image](https://user-images.githubusercontent.com/100050237/161179412-2dd927ee-02ba-475a-abe7-6fe3a76dace9.png)
 * https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/se2waq/
-* Note set `var FLAGparam = 1` for Cyanobacteria or 0 for Chlorophyll (also scale down the visuals to something like `var scaleChl_a = [0, .4 , .8, 1.6, 3.2, 10]`)
+* Note: set `var FLAGparam = 1` for Cyanobacteria or `var FLAGparam = 0` for Chlorophyll (also scale down the visuals to something like `var scaleChl_a = [0, .4 , .8, 1.6, 3.2, 10]`)
 
 #### Other related scripts:
 * https://custom-scripts.sentinel-hub.com/sentinel-2/cyanobacteria_chla_ndci_l1c
