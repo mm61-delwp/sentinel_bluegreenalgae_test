@@ -29,6 +29,7 @@ The Se2WaQ - Sentinel-2 Water Quality - script by Nuno Sidónio and Andrade Pere
 ### Random Notes:
 How to extract Sentinel satellite data to GeoTIFF for further analysis in ArcGIS:
 * https://www.copernicus-user-uptake.eu/fileadmin/FPCUP/dateien/resources/2018-1-06/Guide_basics_satellite_data_english.pdf
+* 
 Licensing:
 * Scripts are CC by attribution (check specifics), so give credit and provide source under same license for any modifications.
 * Sentinel basic data access is free for non-commercial use, but double-check permissions. 
