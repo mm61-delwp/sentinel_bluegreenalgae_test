@@ -20,7 +20,7 @@ Refs.: [1]M. Potes et al., “Use of Sentinel 2 – MSI for water quality
 */
 
 // user defined FLAGs
-var FLAGparam = 5;
+var FLAGparam = 1; // 0 = Chlorphyll, 1 = Cyanobacteria, 2 Turbidity etc.
 var FLAGbackGround = 2;
 
 // Water-land contrast index (to define the background)
