@@ -31,6 +31,10 @@ The Se2WaQ - Sentinel-2 Water Quality - script by Nuno Sidónio and Andrade Pere
 3. Test whether usable relationships exist between satellite data and lab results from water testing.
 
 ### Random Notes:
+Tested scripts are highly susceptible to interference from cloud - even light cloud throws things off. So despite the frequency of satellite passes, S1 & S2 produced only a handful of usable days for January/February.
+
+Sentinel-3 OLCI scanner might provide the best data, at a lower resolution. Haven't looked into it much, but worth keeping in mind when physical samples are compared to satellite.
+
 How to extract Sentinel satellite data to GeoTIFF for further analysis in ArcGIS:
 * https://www.copernicus-user-uptake.eu/fileadmin/FPCUP/dateien/resources/2018-1-06/Guide_basics_satellite_data_english.pdf
 
